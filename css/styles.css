@@ -140,14 +140,4 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
-.mountain {
-    position: relative;
-    bottom: 300px;
-    right: 200px;
 
-}
-.iam {
-    position: relative;
-    left: 400px;
-    -webkit-text-fill-color: black;
-}
